@@ -1,0 +1,25 @@
+{
+  "name": "chromium-emulated-devices",
+  "version": "1.0.0",
+  "description": "The list of emulated devices from Chromium's devtools as JSON. Useful for plucking out device resolutions, pixel ratios and user agent strings.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mixu/chromium-emulated-devices.git"
+  },
+  "keywords": [
+    "chromium",
+    "device",
+    "resolution",
+    "user-agent"
+  ],
+  "author": "Mikito Takada <mikito.takada@gmail.com> (http://mixu.net/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mixu/chromium-emulated-devices/issues"
+  },
+  "homepage": "https://github.com/mixu/chromium-emulated-devices"
+}
